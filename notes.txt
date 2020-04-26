@@ -2,3 +2,4 @@ Archivo de notas
 
 - Crear carpeta Core/
 - Crear archivo de conexion a db
+- Crear bbdd de clientes
